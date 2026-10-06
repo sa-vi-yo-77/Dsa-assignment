@@ -1,0 +1,7 @@
+PAIRWISE MERGE
+After merging L1 and L2: 10 20 30 40 50 60 70 80
+After merging result with L3: 10 15 20 30 35 40 50 55 60 70 75 80
+
+Final merged output: 10 15 20 30 35 40 50 55 60 70 75 80
+
+Element comparisons: 18
