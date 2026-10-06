@@ -1,0 +1,19 @@
+K-WAY MERGE USING MIN HEAP
+Initial Heap: 10 20 15
+After removing 10: Heap: 15 20 30
+After removing 15: Heap: 20 30 35
+After removing 20: Heap: 30 35 40
+After removing 30: Heap: 35 40 50
+After removing 35: Heap: 40 50 55
+After removing 40: Heap: 50 55 60
+After removing 50: Heap: 55 60 70
+After removing 55: Heap: 60 70 75
+After removing 60: Heap: 70 75 80
+After removing 70: Heap: 75 80
+After removing 75: Heap: 80
+After removing 80: Heap Empty
+
+Merged output: 10 15 20 30 35 40 50 55 60 70 75 80
+
+Key comparisons: 19
+Heap swaps: 9
